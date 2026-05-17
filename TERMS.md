@@ -26,6 +26,11 @@ This exclusion applies regardless of legal theory (contract, tort including negl
 - You shall not use the Content for any illegal purpose;
 - When referencing, modifying, or redistributing the Content, you must conspicuously credit the original repository URL, author(s), owner(s), and all contributors, and clearly mark any modifications made.
 
+---
+
+## Relation to License Terms
+This agreement, together with the [GNU AGPLv3 License](LICENSE) and the [Additional License Terms](ADDITIONAL_TERMS.md), forms the complete set of legal terms governing your use of the Repository's Content. You must comply with all of these documents simultaneously. In the event of any conflict, the disclaimers of liability, warranty, and assumption of risk set forth in this agreement shall be given precedence.
+
 # 免责条款与使用协议
 
 **在使用本仓库（下称“仓库”）任何内容之前，请您仔细阅读以下条款。一旦您访问、下载、复制、安装或使用仓库中的任何代码、二进制文件、文档或其他材料（统称“内容”），即表示您已充分理解并不可撤销地同意本协议的全部条件。如您不同意，请立即停止一切使用行为并销毁所有副本。**
@@ -53,3 +58,8 @@ This exclusion applies regardless of legal theory (contract, tort including negl
 - 您必须在完全理解程序行为且确信不会造成任何损失的前提下运行内容；
 - 您不得将本仓库内容用于任何非法目的；
 - 在引用、修改或分发内容时，您必须在显著位置标明原始仓库地址、作者、所有者及所有贡献者，并对任何修改做出明确标注。
+
+---
+
+## 与许可协议的衔接
+本使用协议与仓库的 [GNU AGPLv3 许可证](LICENSE) 及 [附加许可条款](ADDITIONAL_TERMS.md) 共同构成您使用本仓库内容的完整法律条款。您必须同时遵守所有这些文件的规定。若本协议的免责声明与其他文件存在冲突，本协议中关于责任豁免、无担保和风险自担的约定应被优先尊重和适用。
